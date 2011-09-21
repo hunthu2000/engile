@@ -1,0 +1,11 @@
+#labels Phase-Deploy
+Due to the 100 MB limit on downloads on Google code we have an issue of providing you a community build download here. 
+
+Please visit http://community.engile.com/download.html to download an installable.
+
+You will need 
+
+> MySQL 5.1 or above
+> Tomcat 6.0 or above
+
+Installation instructions - Setup driven.. for more help please contact us through http://www.engile.com/contactus.html
