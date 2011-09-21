@@ -1,7 +1,7 @@
 #labels Phase-Deploy
 Due to the 100 MB limit on downloads on Google code we have an issue of providing you a community build download here. 
 
-Please visit http://community.engile.com/download.html to download an installable.
+Please visit http://www.engile.com/download.html to download an installable.
 
 You will need 
 
