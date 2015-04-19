@@ -1,0 +1,12 @@
+http://code.google.com/p/engile/downloads/list
+
+You will still need to get a community edition license key.. helps users to report issues directly from the tool. Though the tool itself is fully opensource compliant.
+
+Please visit http://www.engile.com/download.html?ref=community to get your license.
+
+You will need
+
+> MySQL 5.1 or above
+> Tomcat 6.0 or above
+
+Installation instructions - Setup driven.. for more help please visit http://groups.google.com/group/engile
